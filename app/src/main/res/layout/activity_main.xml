@@ -11,7 +11,7 @@
         android:layout_width="195dp"
         android:layout_height="46dp"
         android:fontFamily="sans-serif-black"
-        android:text="dionatas tomaz 27-02-2026"
+        android:text="Dionatas Tomaz 27/02/2026"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
